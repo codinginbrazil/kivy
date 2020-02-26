@@ -6,6 +6,8 @@ Curso de Python Gratuito
 
 ## Preparação de Ambiente
 
+https://www.youtube.com/watch?v=VuKvR1J2LQE
+
 ### Instalação
 
 ### Editor e plugins
