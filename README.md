@@ -13,7 +13,13 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 ### Editor e plugins
 
 * Jupyter Lab
-* Visual Studio Code
+* Visual Studio Code: Plugins (Ctrl+P)
+    * ext install spywhere.guides
+    * ext install eamodio.gitlens
+    * ext install christian-kohler.path-intellisense
+    * ext install ms-python.python
+    * ext install BattleBas.kivy-vscode
+    * ext install vscode-icons-team.vscode-icons
 * Spyder
 
 ## Cronograma
@@ -77,6 +83,6 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 * https://www.anaconda.com/
 * https://www.python.pro.br/
 * https://www.pycursos.com/python-para-zumbis/
-* pythonacademy.com.br
+* https://pythonacademy.com.br
 * https://www.cursoemvideo.com/
 * https://www.coursera.org/
