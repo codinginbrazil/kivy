@@ -1,15 +1,19 @@
-Curso de Python Gratuito
+Curso de Python `3.8.2`
 =================
 
 * Objetivo de ensinar Python de forma definitiva; 
 * Demostrar configuração de ambiente em diversas plataformas.
 
 ## Preparação de Ambiente
-
 https://www.youtube.com/watch?v=VuKvR1J2LQE
 
 ### Instalação
 
+#### Imports
+- [X] [ASDF](https://github.com/sswellington/linux-essencial/blob/master/equivalente/asdf.sh)
+
+- [X] [PIP](https://github.com/sswellington/linux-essencial/blob/master/equivalente/pip.sh)
+- [X] [Pillow](https://pillow.readthedocs.io/en/stable/reference/Image.html)
 ### Editor e plugins
 
 * Jupyter Lab
@@ -59,6 +63,8 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 - [ ] Polimorfismo
 - [ ] Threads
 - [ ] Testes automatizados
+
+### Processamento de imagens
 
 ### Interface Gráfico
 
