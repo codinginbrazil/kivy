@@ -71,7 +71,8 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 - [ ] Kivy
 
 ### Construção de sistemas Web
-
+- [ ] Flask
+- [ ] Fastapi
 - [ ] Django
 
 ### Construção de Aplicativos
@@ -86,6 +87,7 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 * https://jupyter.org/
 * https://www.djangoproject.com/
 * https://kivy.org/
+* https://flask.palletsprojects.com
 * https://www.anaconda.com/
 * https://www.python.pro.br/
 * https://www.pycursos.com/python-para-zumbis/
