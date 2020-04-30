@@ -4,6 +4,19 @@ Curso de Python `3.8.2`
 * Objetivo de ensinar Python de forma definitiva; 
 * Demostrar configuração de ambiente em diversas plataformas.
 
+## História
+* Origem: 1990
+* Criador:  Guido van Rossum
+* Programação: Estruturada
+* Paradigma: Orientada Objeto
+* Interpretada
+* Fortemente tipada
+* Estaticamente dinâmica
+* Extensão: `.py`
+* Tipos de comentário:
+    * # := comenta uma linha
+    * ''' ''' := comenta todas
+
 ## Preparação de Ambiente
 https://www.youtube.com/watch?v=VuKvR1J2LQE
 
@@ -35,12 +48,18 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 - [ ] Hello World!
 - [ ] Input
 - [ ] Tipos de váriaveis
+    > Números, String, Lista, Dicionário, Tupla
 - [ ] Constante
 - [ ] Estrutura de seleção
 - [ ] Laço de repetição
 - [ ] Função
 - [ ] Lista
+- [ ] Dicionário
+- [ ] Tupla
 - [ ] Matriz
+
+#### Parte II
+- [ ] Módulo
 
 #### Estrutura de Dados
 
