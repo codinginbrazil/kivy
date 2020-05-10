@@ -14,8 +14,8 @@ Curso de Python `3.8.2`
 * Estaticamente dinâmica
 * Extensão: `.py`
 * Tipos de comentário:
-    * # := comenta uma linha
-    * ''' ''' := comenta todas
+    * `#` = comenta uma linha
+    * `''' '''` = comenta todas
 
 ## Preparação de Ambiente
 https://www.youtube.com/watch?v=VuKvR1J2LQE
@@ -27,9 +27,9 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 
 - [X] [PIP](https://github.com/sswellington/linux-essencial/blob/master/equivalente/pip.sh)
 - [X] [Pillow](https://pillow.readthedocs.io/en/stable/reference/Image.html)
+
 ### Editor e plugins
 
-* Jupyter Lab
 * Visual Studio Code: Plugins (Ctrl+P)
     * ext install spywhere.guides
     * ext install eamodio.gitlens
@@ -37,6 +37,7 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
     * ext install ms-python.python
     * ext install BattleBas.kivy-vscode
     * ext install vscode-icons-team.vscode-icons
+* Jupyter Lab
 * Spyder
 
 ## Cronograma
