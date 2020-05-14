@@ -104,6 +104,8 @@ https://www.youtube.com/watch?v=VuKvR1J2LQE
 ## Referência
 * https://www.python.org/
 * https://python.org.br/
+* https://docs.python.org/3/tutorial/index.html
+* https://docs.python.org/pt-br/3/tutorial/index.html
 * https://jupyter.org/
 * https://www.djangoproject.com/
 * https://kivy.org/
